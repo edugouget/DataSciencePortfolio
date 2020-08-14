@@ -34,14 +34,5 @@ Lista de projetos em Jupyter Notebook:
 * **Análise dos Dados do Airbnb para o Rio de Janeiro:** https://bit.ly/2oBxmeK
 * **Avaliação de Risco de Crédito - Nubank:** https://bit.ly/2MTFIH3
 
----
-
-### Sobre mim:
-
-Sou engenheiro com experiëncia em desenvolvimento de projetos de engenharia nas áreas elétrica, instrumentação e automação. Atuei como engenheiro fiscal de empreendimento para os sistemas de instrumentação e automação, ficando como responsável por reuniões técnicas, muitas delas em língua inglesa, tomada de decisões, diligenciamento de pacotes, aprovação de documentação técnica, controle de prazos e custos, construção e montagem. Possuo bastante experiência na confecção de documentos de engenharia, como folhas de dados de instrumentos, memórias de cálculos, diagramas e desenhos. Atualmente utilizo as ferramentas de programação para agilizar o trabalho na engernharia.
-
-* Graduação em Engenharia Elétrica Eletrônica pela UVA.
-* Mestrado em Gestão de Sistemas de Engenharia pela UCP-RJ.
-* Curso Técnico de Eletrotécnica pelo CEFET-RJ.
 
 
