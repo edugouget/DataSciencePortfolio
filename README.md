@@ -4,9 +4,27 @@
   <img src="github_cover.jpg" >
 </p>
 
+# Eduardo Gouget
+<sub>*Engineer* at Ferrostaal Ltda</sub>
+
+I’m an experienced project engineer in electrical, instrumentation and automation. I’ve been working as engineer supervising the instrumentation and automation systems. I’ve been responsible for technical meetings, many of them in English, decision-making, packages expediting, approval of technical documentation, time and costs control, constructing and assembling. I am very experienced in engineer documents development like instruments data sheet, calculation sheets, diagrams and technical drawings. I master the engineering tools Office, CAD, Smartplant and COMOS. I was responsible for lead building and assembling team, where this team was composed by contractor, technicians and supervisors.
+
+**Credentials:**
+* Master degree in Engineering System Management at UCP-RJ. Research topic: Project, Planning and Control System of Engineering. / Thesis: Proposal of Methodology for Instrumentation Project.
+* Bachelors degree in Electronic Engineering at UVA.
+* Curso Técnico de Eletrotécnica pelo CEFET-RJ.
+
+**Background in:** Electronics, Python, Machine Learning and Mathematical Optimisation.
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/eduardogouget)
+* [Blog](https://www.gouget.com.br)
+* [GitHub](https://github.com/edugouget)
+
+---
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
 
-## Projetos:
+## Projects:
 Lista de projetos em Jupyter Notebook:
 
 * **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/2Qr7Nai
