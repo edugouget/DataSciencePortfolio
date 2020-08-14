@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-edugouget-red.svg)](https://www.linkedin.com/in/eduardogouget/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/edugouget/DataSciencePortfolio/issues)
+[![author](https://img.shields.io/badge/author-edugouget-red.svg)](https://www.linkedin.com/in/eduardogouget/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-385/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/edugouget/DataSciencePortfolio/issues)
 
 <p align="center">
   <img src="/img/github_cover.png" >
@@ -20,11 +20,10 @@ Lista de projetos em Jupyter Notebook:
 
 ### Sobre mim:
 
-Sou Piloto Militar da Força Aérea Brasileira e Engenheiro de Missão de Satélite no Centro de Operações Espaciais (COPE), em Brasília-DF. Autor do *blog* [sigmoidal.ai](http://sigmoidal.ai).
+Sou engenheiro com experiëncia em desenvolvimento de projetos de engenharia nas áreas elétrica, instrumentação e automação. Atuei como engenheiro fiscal de empreendimento para os sistemas de instrumentação e automação, ficando como responsável por reuniões técnicas, muitas delas em língua inglesa, tomada de decisões, diligenciamento de pacotes, aprovação de documentação técnica, controle de prazos e custos, construção e montagem. Possuo bastante experiência na confecção de documentos de engenharia, como folhas de dados de instrumentos, memórias de cálculos, diagramas e desenhos. Atualmente utilizo as ferramentas de programação para agilizar o trabalho na engernharia.
 
-* Graduação em Ciências Aeronáuticas pela AFA.
-* Mestrado em Ciências e Tecnologias Espaciais pelo ITA.
-* MBA em Gestão de Projetos e Processos pela UNIFA.
-* Curso de Operações Espaciais pela Força Aérea do Canadá.
+* Graduação em Engenharia Elétrica Eletrônica pela UVA.
+* Mestrado em Gestão de Sistemas de Engenharia pela UCP-RJ.
+* Curso Técnico de Eletrotécnica pelo CEFET-RJ.
 
 
