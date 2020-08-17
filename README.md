@@ -27,7 +27,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 ## Projects:
 Lista de projetos em Jupyter Notebook:
 
-* **Modelo de Estudo em Data Science - Predição de Sobreviventes do Naufrágio do Titanic:** https://github.com/edugouget/DataSciencePortfolio/blob/master/01%20Titanic/01%20Titanic.ipynb
+* **Modelo de Estudo em Data Science - Predição de Sobreviventes do Naufrágio do Titanic:** https://github.com/edugouget/DataSciencePortfolio/blob/master/01_Titanic/01_Titanic.ipynb
 
 
 
